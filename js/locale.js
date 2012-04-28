@@ -43,6 +43,33 @@
             // Locale for Firefox Flicks Promotions
             firefoxFlicks:      "Great prizes! Hollywood judges! Exclamation marks! Enter Firefox Flicks, the global video contest to tell our story, or vote for your favorites!</a>",
         },
+        "de-DE" : { // Locale strings for Germany German
+
+            // Title Strings
+            titleMozilla:       "Mozilla",
+            titleProducts:      "Projekte",
+            titleInnovation:    "Innovationen",
+            titleGetInvolved:   "Machen Sie mit",
+
+            // Link Strings
+            linkMission:        "Erfahren Sie mehr",
+            linkAbout:          "Über uns",
+            linkProjects:       "Projekte",
+            linkSupport:        "Unterstützung",
+            linkMDN:            "Entwicklernetzwerk",
+            linkFirefox:        "Firefox",
+            linkThunderbird:    "Thunderbird",
+            linkWebFWD:         "WebFWD",
+            linkLabs:           "Labs",
+            linkVolunteers:     "Helfen Sie uns",
+            linkCareers:        "Jobangebote",
+            linkFindUs:         "Finden Sie uns",
+            linkJoinUs:         "Helfen Sie uns",
+            linkWebDir:         "Webseitenverzeichnis",
+
+            // Locale for Firefox Flicks Promotions
+            firefoxFlicks:      "Tolle Preise! Hollywood judges! Viele Ausrufezeichen! Machen Sie bei Firefox Flicks mit, einem globalen Videowettbewerb um unsere Geschichte zu erzählen, oder stimmen Sie für Ihre Favoriten ab!</a>",
+        },
         "bn-IN" : { // Locale strings for US English
 
             // Title Strings
