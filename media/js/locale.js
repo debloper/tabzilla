@@ -63,7 +63,7 @@
 
             // Title Strings
             titleMozilla:       "Mozilla",
-            titleProducts:      "Products",
+            titleProducts:      "উৎপণ্য দ্রব্য ",
             titleInnovation:    "উদ্ভাবনা",
             titleGetInvolved:   "লিপ্ত হউন",
 
@@ -72,7 +72,7 @@
             linkAbout:          "সম্বন্ধে",
             linkProjects:       "প্রকল্প",
             linkSupport:        "সহায়তা",
-            linkMDN:            "Developer Network",
+            linkMDN:            "বিকাশকারী সম্প্রদায়",
             linkFirefox:        "Firefox",
             linkThunderbird:    "Thunderbird",
             linkWebFWD:         "WebFWD",
@@ -81,7 +81,7 @@
             linkCareers:        "পেশা",
             linkFindUs:         "খুঁজে নিন",
             linkJoinUs:         "যোগ দিন",
-            linkWebDir:         "Website Directory",
+            linkWebDir:         "ওয়েবসাইট নির্দেশিকা",
 
             // Locale for Firefox Flicks Promotions
             firefoxFlicks:      "দারুন পুরস্কার! হলিউডের বিচারক! রামগরুরের ছানা! আরো অনেক কিছু! Firefox Flicks &mdash; এই বিশ্বব্যাপী চলচিত্র প্রতিযোগিতায় যোগ দাও, অথবা পছন্দের প্রতিযোগী কে মনোনীত কর!"
